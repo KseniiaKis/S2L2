@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/bloodreina5/text-laba.svg?branch=main)](https://travis-ci.org/bloodreina5/text-laba)
+
